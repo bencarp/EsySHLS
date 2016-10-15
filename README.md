@@ -1,2 +1,2 @@
 # EsySHSL
-A Smart Home light switch switch
+A Smart Home 'light switch switch'
