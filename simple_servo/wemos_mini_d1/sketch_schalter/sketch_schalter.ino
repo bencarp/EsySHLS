@@ -49,11 +49,14 @@ void loop()
 
   digitalWrite(ledPingruen, 0);
   digitalWrite(ledPinrot, 1);
+  
   servosg90.write(0);
 
-  delay(500);
+  delay(1000);
 
-  servosg90.write(120);
+  servosg90.write(90);
+
+  servosg90.write(0);
 
   
   delay(500);
